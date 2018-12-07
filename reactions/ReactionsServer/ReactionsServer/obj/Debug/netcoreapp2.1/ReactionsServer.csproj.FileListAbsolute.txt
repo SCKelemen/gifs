@@ -1,0 +1,3 @@
+C:\Users\skelemen\Desktop\Reactions\reactions\ReactionsServer\ReactionsServer\obj\Debug\netcoreapp2.1\ReactionsServer.csproj.CoreCompileInputs.cache
+C:\Users\skelemen\Desktop\Reactions\reactions\ReactionsServer\ReactionsServer\obj\Debug\netcoreapp2.1\ReactionsServer.AssemblyInfoInputs.cache
+C:\Users\skelemen\Desktop\Reactions\reactions\ReactionsServer\ReactionsServer\obj\Debug\netcoreapp2.1\ReactionsServer.AssemblyInfo.cs
